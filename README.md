@@ -1,1 +1,1 @@
-# vue-linkedin-learn
+# vue-linkedIn-learn
