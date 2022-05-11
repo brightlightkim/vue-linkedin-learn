@@ -1,4 +1,4 @@
-# vue-essentials
+# front-end
 
 ## Project setup
 ```
